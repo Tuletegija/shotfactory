@@ -26,6 +26,7 @@ import os
 import time
 import win32gui
 import win32con
+import _winreg
 from win32com.shell import shellcon
 from win32com.shell import shell
 from shotfactory04.gui import windows
